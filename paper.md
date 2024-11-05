@@ -25,6 +25,10 @@
 * Maslow's Hierarchy of Needs -  frame tourists' needs for safety and security in destination choices
 * Environmental Psychology Theory - examines how physical spaces and environmental factors influence people's behaviors and perceptions
 ### Conceptual Framework
+* IPO model
+  * Input: Security measures at Hinulugang Taktak, tourist demographics, and current site conditions
+  * Observing tourist interactions, conducting surveys, analyzing feedback on safety perceptions
+  * Perception of security, suggestions for enhancing security measures
 ### Statement of the Problem
 ### Hypothesis
 ### Scope and Delimitation of the Study
