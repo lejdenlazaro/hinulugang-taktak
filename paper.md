@@ -30,7 +30,7 @@
   * Observing tourist interactions, conducting surveys, analyzing feedback on safety perceptions
   * Perception of security, suggestions for enhancing security measures
 ### Statement of the Problem
-### Hypothesis
+### Assumption
 ### Scope and Delimitation of the Study
 ### Significance of the Study
 ### Definition of Terms  
