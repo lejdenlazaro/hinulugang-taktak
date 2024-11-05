@@ -23,6 +23,7 @@
 * 5 rrs
 ### Theoretical Framework
 * Maslow's Hierarchy of Needs -  frame tourists' needs for safety and security in destination choices
+* Environmental Psychology Theory - examines how physical spaces and environmental factors influence people's behaviors and perceptions
 ### Conceptual Framework
 ### Statement of the Problem
 ### Hypothesis
