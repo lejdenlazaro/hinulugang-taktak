@@ -1,4 +1,5 @@
 # Tourist Perception on the Implementation of Safety Measures in Hinulugang Taktak, Antipolo City: A Proposed Guidelines
+## Abstract
 ## Chapter 1: Introduction
 ### Background of the Study
 * state of tourism around the world
