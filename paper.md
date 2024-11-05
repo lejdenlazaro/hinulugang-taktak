@@ -21,6 +21,7 @@
 * 5 rrl
 * 5 rrs
 ### Theoretical Framework
+* Maslow's Hierarchy of Needs -  frame tourists' needs for safety and security in destination choices
 ### Conceptual Framework
 ### Statement of the Problem
 ### Hypothesis
