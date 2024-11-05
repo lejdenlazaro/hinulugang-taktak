@@ -1,6 +1,18 @@
 # Tourist Perception on the Implementation of Safety Measures in Hinulugang Taktak, Antipolo City: A Proposed Guidelines
 ## Chapter 1: Introduction
 ### Background of the Study
+* state of tourism around the world
+* state of tourism on third world countries
+* state of tourism in the philippines
+* definition and purpose of security measures of tourist spots
+* state of security measures in third world countries for protected landscapes
+* state of security measures in the philippines for protected landscapes
+* local tourist spots security measures on protected landscapes
+* different tourist spots in ncr region
+* tourist perception on this specific tourist spot
+* what is hinulugang taktak
+* goal of the study is to determine tourist perception on hinulugang taktak on the implementation of safety measures
+* importance of the study and explain its significance to a larger body of knowledge
 ### Related Literature and Studies
 ### Theoretical Framework
 ### Conceptual Framework
