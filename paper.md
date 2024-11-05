@@ -12,7 +12,7 @@
 * tourist perception on this specific tourist spot
 * what is hinulugang taktak
 * goal of the study is to determine tourist perception on hinulugang taktak on the implementation of safety measures
-* importance of the study and explain its significance to a larger body of knowledge on tourism
+* importance of the study and explain its significance to a larger body of knowledge on tourism specifically in the northern region of the philippines
 ### Related Literature and Studies
 ### Theoretical Framework
 ### Conceptual Framework
