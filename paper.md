@@ -15,7 +15,11 @@
 * importance of the study and explain its significance to a larger body of knowledge on tourism specifically in the northern region of the philippines
 ### Related Literature and Studies
 #### Foreign
+* 5 rrl
+* 5 rrs
 #### Local
+* 5 rrl
+* 5 rrs
 ### Theoretical Framework
 ### Conceptual Framework
 ### Statement of the Problem
