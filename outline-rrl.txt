@@ -1,6 +1,17 @@
 Outline-RRL
+Template
+	Purpose and Objectives
+	Context and Background
+	Theoretical Framework
+	Methodology
+	Key Findings
+	Conclusions and Implications
+	Limitations
+	Recommendations
+	Unique Insights or Novel Contributions
+
 1. Workplace Safety/Incident Indicators
-	Foreign RRL
+	Foreign RRL: 
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
