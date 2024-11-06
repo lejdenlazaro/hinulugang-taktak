@@ -2,19 +2,21 @@
 ## Abstract
 ## Chapter 1: Introduction
 ### Background of the Study
-* state of tourism around the world
-  * The use of tourist spots in the tourism industry of a country has been beneficial to the country's economic state. It is one of the widely accepted to positively contribute to economic growth through numerous direct and indirect channels. governments are paying a greater attention  to support and promote tourism as a potential source of growth and employment and as a sector which adds value to cultural, natural and other capital with no market price. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0261517720300571)]
-* state of tourism on third world countries
-* state of tourism in the philippines
-* definition and purpose of security measures of tourist spots
-* state of security measures in third world countries for protected landscapes
-* state of security measures in the philippines for protected landscapes
-* local tourist spots security measures on protected landscapes
-* different tourist spots in ncr region
-* tourist perception on this specific tourist spot
-* what is hinulugang taktak
-* goal of the study is to determine tourist perception on hinulugang taktak on the implementation of safety measures
-* importance of the study and explain its significance to a larger body of knowledge on tourism specifically in the northern region of the philippines
+The use of tourist spots in the tourism industry of a country has been beneficial to the country's economic state. It is one of the widely accepted to positively contribute to economic growth through numerous direct and indirect channels. governments are paying a greater attention  to support and promote tourism as a potential source of growth and employment and as a sector which adds value to cultural, natural and other capital with no market price. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0261517720300571)]
+
+Tourism has been a major part that sustains the economic growth of the country. It is interdependent on the tourist's perceptions, experiences, and attitudes towards the tourist spot and its existing management that determines the travel decisions of the tourist[1]. 
+
+One of the factors that influence travel decisions of a tourist is the quality of the implementation of security measures implemented in a particular tourist spot of a country[2]. 
+
+Hinulugang Taktak Protected Landscape is a waterfall and a tourist destination located in Antipolo City from the Municipality of Rizal in the Philippines known as a summer getaway where people from neighboring town and City of Manila gather to organize recreational activities. It is a protected landscape under the passage of the Expanded National Integrated Protected Areas System (ENIPAS) Act of 1992 or the Republic Act 11038[[3](https://legacy.senate.gov.ph/republic_acts/ra%2011038.pdf)]. 
+
+However, there exists a threat to the landscape such as infrastructure and facility risks due to the presence of establishments and settlements along the riverbanks, natural disaster risks due to sloping terrain prone to earthquakes, landslides, and soil erosion which poses as a safety threat to its tourist visitors[[4](https://haraya.upca.upd.edu.ph/wp-content/uploads/2022/07/Eden.pdf)]. 
+
+Major safety measures are developed due to the existing risk indicators of a tourist destination. These are composed of emergency safety measures, natural disasters risk and mitigation, infrastructure and facility quality, and general safety measures of a place. Emergency measures are methods for proactive planning for future incidents to maximize workplace safety such as assigning guard posts and retraining employees as required for incident response[[6](https://scholarworks.waldenu.edu/dissertations/8342/)]. Natural disaster risk mitigation strategies may include the planning and implementing evacuation routes and safe zones within the area. Infrastructure and facility safety measures may include accessibility of services to older people and quality of materials used for maintainance of infrastructure. While general safety measures such as implementing warning signs in the area and quality of equipments. 
+
+Mostly, consumers traveling to high-risk tourism destinations should be avoided in favor of areas with reduced perceived risk hazards. Generally speaking, tourism risks express of the crises taking many shapes and forms in the industry significantly affecting the destination image. Thus, it is imperative for tourism scholars and practitioners to engage in tourism risk management. Risk management encompasses development of policies indispensable for establishing reputation and boosting the tourism brand's equity and awareness, which can attract both international and domestic tourists. Through risk management, tourism companies may include tourist reactions and utilize them constructively way to promote the destination's image. Essentially, destination image mirrors the totality of a tourist's objective views, ideas, and perceptions of a location. The risks evident in tourist destinations have been a growing concern of tourism organizations, employees, and tourists. Considerably, these risks can make or break the destination image[[5](https://research.lpubatangas.edu.ph/wp-content/uploads/2021/10/m7732_ijrsm_final.pdf)]. 
+
+Thus, the study aims to determine tourist perception on safety measures in Hinulugang Taktak focusing emergency/incident, natural disasters, infrastructure and facility, and the implementation of its general safety measures. Guidelines are proposed as recommendation to further improve the safety and reputation of Hinulugang Taktak to both foreign and domestic tourists and to the overall advancement of knowledge of tourism in the Philippines.
 ### Related Literature and Studies
 #### Foreign
 * 5 rrl
