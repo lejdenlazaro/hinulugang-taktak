@@ -9,18 +9,51 @@ Template
 	Limitations
 	Recommendations
 	Unique Insights or Novel Contributions
-
 1. Workplace Safety/Incident Indicators
-	Foreign RRL: 
+	Foreign RRL: https://scholarworks.waldenu.edu/dissertations/8342/
 		Purpose and Objectives
+			to explore strategies some organizational managers use to reduce workplace accidents
 		Context and Background
+			increase in workplace-related injuries and illnesses
+			managers should monitor workplace accidents and report injuries or illnesses
+			workplace safety is a critical element for increasing efficiency and effectiveness in an organization
+			safe and productive workplace where managers significantly improve process safety, quality, and production
+			workplace accident have a negative impact on organization and its employees
+			the general business problem is due to ineffective safety protocols contributed to workplace accidents
 		Theoretical Framework
+			safety management systems conceptual model (smscm) by Heinrich (1931)
+			accidents result from a chain of sequential events that occur from unsafe conditions or unsafe acts in the workplace
+			it is based upon the premise that managers are able to inspire employees to change expectations, perceptions, and safety awareness to work towards the organizational safety goals
 		Methodology
+			qualitative research method
+			ethnography, phenomenology, and case study as research designs
 		Key Findings
+			Enforcing the need for safety training
+				mandatory safety training
+				safety training ensure workers feel confident regarding safety practices in the workplace
+				employee safety training using videos and training modules
+				safety check while walking the area and searching for safety issues
+				safety checklist
+			Creating a culture for safety awareness
+				manager active participation to the employee actions in relation to workplace safety
+				constant meetings for safety discussion
+			Implementing company-wide safety policies
+				manager verification tool for safety policies, processes, and procedures
+				teaching and training employees by implementing company-wide safety policies
+			Creating safety teams
+				creating a team rather than the manager alone increases the likelihood that the safety issues will be addressed
 		Conclusions and Implications
+			contribution to positive social change by placing safety agenda at the center of attention for each employee and to keep them informed of the proper safety protocols
+			encouraging employees to volunteer in the community to assist in eliminating safety issues associated with the work environment
+			improving workplace safety and reducing workplace accidents could improve future organizational sustainment create job opportunities in the local community, and strengthen the economy.
 		Limitations
+			lack of consistent work schedules of the study participants for interview
+			unknown conditions or workplace cultures that could have biased the responses of the study participants
+			the information received from the interviews may have not been generalizable or transferable to all businesses
 		Recommendations
+			Increasing knowledge regarding successful strategies for reducing accidents in the workplace might provide managers with methods each one could use in an organization
 		Unique Insights or Novel Contributions
+			None
 	Foreign RRS
 		Purpose and Objectives
 		Context and Background
