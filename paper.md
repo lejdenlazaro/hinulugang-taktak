@@ -3,6 +3,7 @@
 ## Chapter 1: Introduction
 ### Background of the Study
 * state of tourism around the world
+  * The use of tourist spots in the tourism industry of a country has been beneficial to the country's economic state. It is one of the widely accepted to positively contribute to economic growth through numerous direct and indirect channels. governments are paying a greater attention  to support and promote tourism as a potential source of growth and employment and as a sector which adds value to cultural, natural and other capital with no market price. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0261517720300571)]
 * state of tourism on third world countries
 * state of tourism in the philippines
 * definition and purpose of security measures of tourist spots
