@@ -116,6 +116,8 @@ Template
 			management may create comprehensive emergency response plans on which the staff are regularly trained.
 			*plan of action/guidelines
 		Unique Insights or Novel Contributions
+		Synthesis themes
+			General
 	Local RRS
 		Purpose and Objectives
 		Context and Background
@@ -157,16 +159,39 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL
+	Local RRL: https://techniumscience.com/index.php/business/article/view/8562
 		Purpose and Objectives
+			aimed to assess the extent of disaster risk management preparedness of a local beach and dive resort in Southern Negros Occidental
 		Context and Background
+			Disaster risk management preparedness in tourism destinations is significant for social change, reducing disaster-induced fear and removing the adverse effect of crises
+			the tourism industry needs deeper and more thorough planning and management, including Disaster Risk Management planning
+			there are not enough empirical studies conducted in Negros Occidental that focus on the disaster risk management preparedness of a local beach and dive resort
 		Theoretical Framework
+			Theory of Planned Behavior by Ajzen (1991)
+			Theory of emergency management
 		Methodology
+			descriptive approach, quantitative research design
+			87 local tourism players (DRRM Staff, Tourism office employees, community leaders, beach and dive resort personnel, and tourists)
+			researcher-made questionnaire and structured interview as research instruments
+			mean and standard deviation as data analysis for the questionnaires
 		Key Findings
+			resort management performed a great extent of disaster risk management preparedness in typhoon/flood
+			the extent of disaster preparedness of the resort in earthquake/landslide is higher than the extent of disaster preparedness in typhoons/floods
+			man-made hazards, the extent of disaster preparedness of the resort in crime and terrorism is higher than health threat events.
 		Conclusions and Implications
+			the resort was able to mitigate the hazard which would provide safety of the personnel and tourists
+			disaster risk management preparedness for natural and man-made hazards were critical to the disaster risk management preparedness of a local beach and dive resort
 		Limitations
+			limited number of respondents were obtained
+			the actual conduct of this study was done during a pandemic
+			result may differ from a larger number 
 		Recommendations
+			assess the resort management resiliency on the hazards they experienced
+			study to be replicated requires a greater number of respondents
+			to be conducted in the different cities and municipalities
 		Unique Insights or Novel Contributions
+		Synthesis Themes
+			General
 	Local RRS: https://research.lpubatangas.edu.ph/wp-content/uploads/2021/10/m7732_ijrsm_final.pdf
 		Purpose and Objectives
 			investigating the acceptability and tourism risk impact on the destination image of the Province of Batangas
