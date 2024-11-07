@@ -118,10 +118,11 @@ The study used a descriptive research design to determine tourist perceptions on
 ### Respondents of the Study
 The respondents of this study are 50 tourist visitors of Hinulugang Taktak in Antipolo City aging 15 years old and above.
 ### Sampling Technique
-The study used purposive sampling technique where tourist visitors are specifically sampled out from the population due to nature of data that the study requires. It is an appropriate sampling technique since tourist perception is the only information required for this study and responses from external participants are not included. 
+The study used a type of non-probability sampling technique called purposive sampling where tourist visitors are specifically sampled out from the population due to nature of data that the study requires. It is an appropriate sampling technique since tourist perception is the only information required for this study and responses from external participants are not included. 
 ### Instrument Used in the Study
 The instrument used in the study is a researcher-made survey questionnaire using a four-point Likert scale and a checklist. The instrument is based on the list of safety measures from found in literature. It is composed of three parts: Part I is the demographic profile of respondents, Part II is the safety measure in Hinulugang Taktak, and Part III is the problems encountered by respondents regarding safety measure. Part I consists of the respondent's age, sex, and civil status. Part II consists and is based on the safety measures at Hinulugang Taktak in terms of incidents, natural disaster, and infrastructure and facility. Part III are problem indicators on the safety measures implemented in the site.
 ### Construction of the Questionnaire
+
 ### Validation of the Instrument
 ### Administration and Retrieval of the Questionnaires
 ### Statistical Treatment of Data
