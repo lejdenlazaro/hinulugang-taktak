@@ -92,7 +92,26 @@ For the Local Communities: Tourist safety precautions improve general safety, bu
 For the Owner: It benefits the owner in many ways it could be enhancing their reputation, attracting more visitors, reducing insurance cost, reducing liability risk, Increased competitive advantage, and long-term business sustainability, 
 
 For the Future Researchers: They may use this study as a source of both conceptual and research literature when they conduct their own studies related to the topic of the present Study.
-### Definition of Terms  
+### Definition of Terms
+The following terms are conceptually defined for the comprehension and understanding of the study.
+
+Attraction. A place of interest where tourists visit, typically for its inherent or exhibited natural or cultural value, historical significance, natural or built beauty, offering leisure, adventure, and amusement.
+
+Facilities. An establishment providing primarily for tourist accommodation or recreation, or both, and may include camp, caravan sites, holiday cabins, picnic grounds, playgrounds, and restaurants.
+
+Guidelines. A set of rules or instructions that are given by an official organization telling you how to do something.
+
+Operational. A practical implementation and execution of safety protocols and procedures.
+
+Precautions. An action taken to prevent something unpleasant or dangerous from happening.
+
+Safety measure. An action, procedure or contrivance designed to lower the occurrence or risk of injury, loss and danger to persons, property or the environment.
+
+Stakeholder. Are individuals or organizations that have an interest in the tourism industry. They can be directly involved in the industry, such as tourism businesses or government agencies, or they can be indirectly involved, such as local communities or environmental groups.
+
+Sustainable tourism. Tourism that takes full account of its current and future economic, social and environmental impacts, addressing the needs of visitors, the industry, the environment and host communities.
+
+Tourists. A person who is traveling, especially for pleasure.
 ## Chapter 2: Methods 
 ### Research Design
 ### Respondents of the Study
