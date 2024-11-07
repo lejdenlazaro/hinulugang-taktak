@@ -39,7 +39,7 @@ The objective of this study is to fill this gap by determining tourist perceptio
 
 The study addresses the following research questions:
 	
-1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age and sex?
+1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age, sex, and civil status?
 	
 2. How do tourists perceive the safety measures at Hinulugang Taktak regarding:
 		
