@@ -53,6 +53,11 @@ The study addresses the following research questions:
 
 Based on the findings, the study will propose guidelines to strengthen safety protocols at Hinulugang Taktak, benefiting both the site and contributing to broader knowledge on tourism safety in the Philippines.
 ### Assumption
+Assumptions are conditions, or premises the researcher believes to be true without concrete proof for the study's purposes. These are facts or events a researcher assumes true without verification from a researcher. This study operates under the following assumptions:
+1. The study assumed that all participants will answer the survey questionnaire honestly and to the best of their knowledge. The accuracy of findings is dependent on the truthful response since the study relies on self-reported data.
+2. The study assumed that the survey instrument used in this study are reliable and valid for capturing tourists’ perceptions of safety measures. The contents of the survey is based on established literature for accuracy on the measurement of the intended variables.
+3. The study assumed that the tourists participating in this study have sufficient awareness and familiarity with the implemented safety measures at Hinulugang Taktak.
+4. The study assumed that external factors such as weather conditions, local events, or suddent changes will not alter the conditions of Hinulugang Taktak during the study period.
 ### Scope and Delimitation of the Study
 ### Significance of the Study
 ### Definition of Terms  
