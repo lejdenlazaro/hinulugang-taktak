@@ -79,8 +79,20 @@ The delimitations of the study are as follows:
 
 These delimitations is to maintain the feasibility of the study within the constraints of time and resources and its findings will be most applicable only to Hinulugang Taktak and may not be fully generalizable to other tourist destinations.
 ### Significance of the Study
-### Definition of Terms  
+The present study was significant to the LGU, Tourist, Stakeholder, Local Communities, Owner, and Future Researchers.
 
+For the LGU: They can establish a positive reputation as a secure and safety that makes a destination more attractive to investors and developers. This may encourage additional spending on infrastructure associated with tourism including lodging facilities, resorts, transportation and recreational facilities. Investing in safety measure for tourists is not only to protect visitors but also yields significant economic, social and environmental benefits for local governments and communities.
+
+For the Tourist: By implementing safety measure, it enhancing the tourist Satisfaction, providing peace of mind that can help tourist feel safer and enjoy their travel experience without worrying potential risks.
+
+For the Stakeholder: Implementing safety measure make the stakeholders investments protected, making the destinations more attractive, promoting sustainable tourism, handling emergencies better and ensuring tourism industry thrives in the long run.
+
+For the Local Communities: Tourist safety precautions improve general safety, build strong bonds with guests, and stimulate economic growth by creating jobs and increasing tourism-related revenue for local communities.
+
+For the Owner: It benefits the owner in many ways it could be enhancing their reputation, attracting more visitors, reducing insurance cost, reducing liability risk, Increased competitive advantage, and long-term business sustainability, 
+
+For the Future Researchers: They may use this study as a source of both conceptual and research literature when they conduct their own studies related to the topic of the present Study.
+### Definition of Terms  
 ## Chapter 2: Methods 
 ### Research Design
 ### Respondents of the Study
