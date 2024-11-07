@@ -77,7 +77,7 @@ The delimitations of the study are as follows:
 
   3. The sample size will be limited to a manageable number of respondents from the site due to resource constraints, which may not fully represent the broader population of tourists who visit Hinulugang Taktak.
 
-These delimitations is to maintain the feasibility of the study within the constraints of time and resources and the findings of this study will be most applicable only to Hinulugang Taktak and may not be fully generalizable to other tourist destinations.
+These delimitations is to maintain the feasibility of the study within the constraints of time and resources and its findings will be most applicable only to Hinulugang Taktak and may not be fully generalizable to other tourist destinations.
 ### Significance of the Study
 ### Definition of Terms  
 
