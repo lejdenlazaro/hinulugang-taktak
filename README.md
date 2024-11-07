@@ -116,6 +116,7 @@ Tourists. A person who is traveling, especially for pleasure.
 ### Research Design
 This study used a descriptive research design to determine tourist perceptions on safety measures of Hinulugang Taktak. Descriptive research design is appropriate for this study because frequency, percentage, and weighted mean were used to assess the respondent's perception on the implementation of safety measures of the site. It is also supported by similar studies by Torralba and Ylagan (2021) on their measurement on perceived safety and security of resorts in Batangas. Using descriptive research in this study is appropriate for accurate description of the target population.
 ### Respondents of the Study
+The respondents of this study are 50 tourist visitors of Hinulugang Taktak in Antipolo City aging 15 years old and above.
 ### Sampling Technique
 ### Instrument Used in the Study
 ### Construction of the Questionnaire
