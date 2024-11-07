@@ -122,9 +122,20 @@ The study used a type of non-probability sampling technique called purposive sam
 ### Instrument Used in the Study
 The instrument used in the study is a researcher-made survey questionnaire using a four-point Likert scale and a checklist. The instrument is based on the list of safety measures from found in literature. It is composed of three parts: Part I is the demographic profile of respondents, Part II is the safety measure in Hinulugang Taktak, and Part III is the problems encountered by respondents regarding safety measure. Part I consists of the respondent's age, sex, and civil status. Part II consists and is based on the safety measures at Hinulugang Taktak in terms of incidents, natural disaster, and infrastructure and facility. Part III are problem indicators on the safety measures implemented in the site.
 ### Construction of the Questionnaire
-
+The questionnaire is primarily based on the research question from the problem statement. 
 ### Validation of the Instrument
 ### Administration and Retrieval of the Questionnaires
+In the administration and retrieval phase of the researcher-made questionnaire, the researchers will meticulously plan and execute the process with utmost attention to ethical considerations. The researcher's primary objective is to ensure all respondents' integrity, confidentiality, and voluntary participation while collecting the data for our study.
+
+The researchers will seek ethical approval from the relevant institutional review board or ethics committee to commence the administration phase. This approval process will involve submitting detailed documentation outlining the purpose of the study, the nature of the questionnaire, and the steps taken to protect participant rights. Upon receiving approval, the researchers will proceed with recruiting participants, adhering to ethical guidelines, and obtaining informed consent from each individual before participating.
+
+During the administration of the questionnaire, the researchers will prioritize clarity and accessibility to ensure that respondents fully understand the instructions and items presented to them. Any potential risks or discomfort associated with participation will be minimized through clear communication and the provision of support services if needed. Additionally, the researchers will assure respondents of the confidentiality and anonymity of their responses, emphasizing the researchers' commitment to protecting their privacy throughout the research process.
+
+Once the questionnaire has been completed by participants, the researchers will initiate the retrieval phase, ensuring the secure collection and storage of all data collected. To maintain confidentiality, the researchers will utilize secure data storage systems and encryption protocols to safeguard participant information from unauthorized access or disclosure. Any identifying information collected will be kept separate from the questionnaire responses to protect participant anonymity.
+
+Throughout the administration and retrieval process, the researchers will remain vigilant in upholding ethical principles and addressing any ethical concerns. The researchers will maintain open communication with participants, allowing them to withdraw from the study at any time without repercussion. Additionally, the researchers will regularly review and update our ethical protocols in response to feedback or unforeseen circumstances to ensure ongoing compliance with ethical standards.
+
+This document certifies that the purpose of this study is to determine the tourist safety measure of Hinulugang Taktak, Antipolo city, which serves as a practical measure for a destination towards sustainability as part of the partial fulfillment of the requirements for the degree of Bachelor of Science in Tourism Management. The researchers assured the respondents that the information would be treated with the outmost confidentiality. In accordance with R.A 10173, the DATA Privacy Act of 2012,” Including its Implementing Rules and Regulations (IRR) as well as all other guidelines and issuance by the National Privacy Commission (NPC). The respondents signed a consent form as proof of their willingness to cooperate and that they were not force in any way.
 ### Statistical Treatment of Data
 
 ## Chapter 3: Results
