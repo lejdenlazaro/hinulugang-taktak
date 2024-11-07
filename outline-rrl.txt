@@ -74,15 +74,47 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL
+	Local RRL: https://research.lpubatangas.edu.ph/wp-content/uploads/2022/02/09-APJMSD-2021-31-1.pdf
 		Purpose and Objectives
+			investigated the safety and security measures of resorts in batangas
+			to determine the level of safety and security in terms of public hazard, life and property, environmental security, public health, and accessibility
+			assessed the guest satisfaction in terms of facilities/ amenities and customer service
 		Context and Background
+			safety and security are important factors to tourists when choosing a destination and when selecting a hotel to stay in
+			resorts are one of the main contributory factors of the growing economy of Batangas
+			resort owners should intentionally focus on every single detail of the safety security to keep their guests from all dangers otherwise it will be a negative image of their hotels in case there are any accidents or unexpected incidents to the tourists
+			there is still a lack of research that evaluates the safety and security measures from guests' viewpoint in the resort industry in general themselves or their belongings
 		Theoretical Framework
+			None
 		Methodology
+			descriptive method of research
+			279 respondents
+			data gathering instrument is a survey questionnaire
+			descriptive statistics and anova for data analysis
 		Key Findings
+			public hazards
+				checkpoints and presence of security personnel
+				providing expert tourist guides and lifeguards
+			life and property
+				resorts does not allow tourists to bring any deadly weapon
+			public health
+				tourists are being served with clean and safe food
+			accessibility
+				provides signage and brochures for risk reduction
+			environmental security
+				feeling safe and secured in water and air pollution and from natural catastrophic events
+			guest satisfaction
+				clean rooms and facilities
+				providing appropriate time and service is necessary as amenities
 		Conclusions and Implications
+			the resort managers should be genuinely involved in safety and security programs because this practice could potentially enhance the public reputation of the resort
 		Limitations
 		Recommendations
+			the resort managers should be genuinely involved in safety and security programs because this practice could potentially enhance the public reputation of the resort
+			the management may invest advanced security technologies to facilitate the security of guests
+			the management may have regular and rigorous exercise for safety
+			management may create comprehensive emergency response plans on which the staff are regularly trained.
+			*plan of action/guidelines
 		Unique Insights or Novel Contributions
 	Local RRS
 		Purpose and Objectives
