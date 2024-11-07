@@ -39,9 +39,9 @@ The objective of this study is to fill this gap by determining tourist perceptio
 
 The study addresses the following research questions:
 	
- 1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age and sex?
+1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age and sex?
 	
- 2. How do tourists perceive the safety measures at Hinulugang Taktak regarding:
+2. How do tourists perceive the safety measures at Hinulugang Taktak regarding:
 		
     2.1 Emergency and incident preparedness,
 		
@@ -49,7 +49,7 @@ The study addresses the following research questions:
 
     2.3 Infrastructure and facility safety?
 
- 3. What safety-related problems do tourists encounter during their visit to Hinulugang Taktak?
+3. What safety-related problems do tourists encounter during their visit to Hinulugang Taktak?
 
 Based on the findings, the study will propose guidelines to strengthen safety protocols at Hinulugang Taktak, benefiting both the site and contributing to broader knowledge on tourism safety in the Philippines.
 ### Assumption
