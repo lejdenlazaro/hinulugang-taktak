@@ -33,6 +33,25 @@ Thus, the study aims to determine tourist perception on safety measures in Hinul
   * Observing tourist interactions, conducting surveys, analyzing feedback on safety perceptions
   * Perception of security, suggestions for enhancing security measures
 ### Statement of the Problem
+Tourism is considered as one of the driving force of national economy. However, the industry is dependent on a tourist's decision for selecting a travel destination. One of the factors that influence this decision is the tourist perception on the implementation of safety measures in the tourist spot. Because of this, there is a need to determine the assessment of safety measures from a tourist's perspective. To add, studies on safety measures at local tourist destinations in the Philippines remains limited. 	                           
+
+The objective of this study is to fill this gap by determining tourist perceptions of safety measures at Hinulugang Taktak focusing on four key themes: emergency/incident preparedness, natural disaster readiness, infrastructure facility and safety, and overall general safety measures. By evaluating these areas, the study seeks to provide insights that can guide improvements in local safety standards, and in turn, enhance the site's reputation to both domestic and international tourists.
+
+The study addresses the following research questions:
+	
+ 1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age and sex?
+	
+ 2. How do tourists perceive the safety measures at Hinulugang Taktak regarding:
+		
+    2.1 Emergency and incident preparedness,
+		
+    2.2 Natural Disaster readiness,
+
+    2.3 Infrastructure and facility safety?
+
+ 3. What safety-related problems do tourists encounter during their visit to Hinulugang Taktak?
+
+Based on the findings, the study will propose guidelines to strengthen safety protocols at Hinulugang Taktak, benefiting both the site and contributing to broader knowledge on tourism safety in the Philippines.
 ### Assumption
 ### Scope and Delimitation of the Study
 ### Significance of the Study
