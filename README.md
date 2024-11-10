@@ -5,10 +5,11 @@ Cal, John Alen C.
 Codal, Nikka L.  
 Mora, Siena Mae Joy R.  
 Silva, John Bernard S. 
- 
+
 *(December 2024)*
 ## Abstract
 ## Chapter 1: Introduction
+This chapter includes the background of the study, related literature and studies, theoretical framework, conceptual framework, statement of the problem assumption, scope and delimitations of the study, significance of the study and definition of terms.
 ### Background of the Study
 The use of tourist spots in the tourism industry of a country has been beneficial to the country's economic state. It is one of the widely accepted to positively contribute to economic growth through numerous direct and indirect channels. governments are paying a greater attention  to support and promote tourism as a potential source of growth and employment and as a sector which adds value to cultural, natural and other capital with no market price. [[1](https://www.sciencedirect.com/science/article/abs/pii/S0261517720300571)]
 
