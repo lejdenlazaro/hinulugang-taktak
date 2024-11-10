@@ -32,6 +32,7 @@ This study uses the Theory of Planned Behavior (TPB) to determine tourist percep
 **Figure 1**  
 *Theory of Planned Behavior*  
 ![Theory of Planned Behavior](./tables-and-figures/theory-of-planned-behavior.svg)
+
 ### Conceptual Framework
 The study used the Input-Process-Output (IPO) model to outline key variables of the study. The IPO model comprises of three main phases: Input, Process, and Output as shown in Figure 2.
 
