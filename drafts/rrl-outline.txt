@@ -231,16 +231,53 @@ Template
 		Unique Insights or Novel Contributions
 			None
 3. Safety Measures on Infrastructure and Facility
-	Foreign RRL
+	Foreign RRL (Dalimunthe et al., 2020) https://societyfisipubb.id/index.php/society/article/view/149/144
 		Purpose and Objectives
+			measure tourist's level of interest in Banka Island, Indonesia on three tourism infrastructure concepts on economic, social, and environmental structure
 		Context and Background
+			Infrastructure is an essential need by tourists for traveling
+			tourist expectation during their traveling is one of the indicators to measure the readiness of infrastructure in the tourism destination
+			to realize Sustainable Tourism Development, the readiness of infrastructures; social, economy, and environment in selected tourism destinations need to be studied
 		Theoretical Framework
+			Importance Performance Analysis (IPA) Model
 		Methodology
+			the four regencies of Banka Island, Indonesia is the location
+			research design
+				exploratory research
+				quantitative approach with the IPA
+				likert scale for scoring interest
+				convenience sampling method
+				total number of samples is 240
+				interviews
 		Key Findings
+			economic infrastructure scored with the highest importance followed by social infrastructure with environmental infrastructure as last
+			economic infrastructure
+				route to destination
+				ticket window
+				public transportation availability
+				hotel/resort
+				electricity
+				automated teller machine (ATM)
+			social infrastructure
+				restroom
+				security facility
+				traffic signs
+				safety signs
+				facility for the disabled
+				information center
+			environmental
+				clean water
+				trash can facility
+				drainage
 		Conclusions and Implications
+			economic infrastructure is the main priority to be developed
+			tourists are satisfied with environmental infrastructure
 		Limitations
+			None
 		Recommendations
+			None
 		Unique Insights or Novel Contributions
+			None
 	Foreign RRS
 		Purpose and Objectives
 		Context and Background
