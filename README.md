@@ -143,7 +143,61 @@ Throughout the administration and retrieval process, the researchers will remain
 
 This document certifies that the purpose of this study is to determine the tourist safety measure of Hinulugang Taktak, Antipolo city, which serves as a practical measure for a destination towards sustainability as part of the partial fulfillment of the requirements for the degree of Bachelor of Science in Tourism Management. The researchers assured the respondents that the information would be treated with the outmost confidentiality. In accordance with R.A 10173, the DATA Privacy Act of 2012,” Including its Implementing Rules and Regulations (IRR) as well as all other guidelines and issuance by the National Privacy Commission (NPC). The respondents signed a consent form as proof of their willingness to cooperate and that they were not force in any way.
 ### Statistical Treatment of Data
+The researchers used the following formula to interpret the tables containing the data from the information gathered through the survey questionnaire:
+1. Frequency and Percentage Distribution  
+  This was used of connecting a portion of the entire overall responses. This study uses numbers, particularly to analyze frequency distribution. This to address the Statement of the Problem No. 1.  
+    $$
+    P = \frac{f}{N} \times 100
+    $$
+    Where:  
+        $P$ = percentage  
+        $f$ = frequency  
+        $n$ = total number of cases
 
+2. Weighted Arithmetic Mean  
+  To measure the responses on the range. The respondents evaluated each indicator by looking at the 1-4 rating scale. As a result, the scale was employed to determine the responses' weight [(Clark-Carter, 2010)](https://www.sciencedirect.com/topics/mathematics/weighted-mean). This was applied to solve the Statement of the Problem No. 2.
+    $$
+    \bar{X} = \frac{\sum_{i=1}^n w_i x_i}{\sum_{i=1}^n w_i}
+    $$
+    Where:  
+      $\bar{X}$ = weighted mean  
+      $w_i$ = weight of each item  
+      $x_i$ = value of each item
+
+3. Likert Scale  
+  The answer that is given to this equation is the total number of respondents divided by the sum of the responses.
+        <table>
+        <tr>
+            <th>Range</th>
+            <th>Verbal Interpretation</th>
+            <th>Symbol</th>
+            <th>Rank</th>
+        </tr>
+        <tr>
+            <td>3.26-4.00</td>
+            <td>Strongly Agree</td>
+            <td>SA</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>2.51-3.25</td>
+            <td>Agree</td>
+            <td>A</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>1.76-2.50</td>
+            <td>Disagree</td>
+            <td>D</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1.0-1.75</td>
+            <td>Strongly Disagree</td>
+            <td>SD</td>
+            <td>1</td>
+        </tr>
+    </table>
 ## Chapter 3: Results
 ### Problem 1
 ### Problem 2
