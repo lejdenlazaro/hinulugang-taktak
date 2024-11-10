@@ -28,6 +28,10 @@ This study aims to assess tourist perceptions of safety measures at Hinulugang T
 * 5 rrs
 ### Theoretical Framework
 This study uses the Theory of Planned Behavior (TPB) to determine tourist perceptions on safety measures at Hinulugang Taktak and explain how these perceptions influence their intention to visit. It is developed by Ajzen (1991) and is a widely recognized framework on psychology for understanding the relationship between individual’s perception, attitude, and behavior. It has three primary constructs namely: attitude, subjective norms, and perceived behavioral control that shapes an individual’s behavioral intentions and behavior as shown in Figure 1.
+
+**Figure 1**  
+*Theory of Planned Behavior*  
+![Theory of Planned Behavior](./tables-and-figures/theory-of-planned-behavior.svg)
 ### Conceptual Framework
 * IPO model
   * Input: Security measures at Hinulugang Taktak, tourist demographics, and current site conditions
