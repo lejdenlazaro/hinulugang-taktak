@@ -49,25 +49,18 @@ The Feedback serves as a feedback loop from the Output to the In  put. It includ
 ![Input-Process-Output (IPO) Model image](./tables-and-figures/ipo.svg)
 
 ### Statement of the Problem
-Tourism is considered as one of the driving force of national economy. However, the industry is dependent on a tourist's decision for selecting a travel destination. One of the factors that influence this decision is the tourist perception on the implementation of safety measures in the tourist spot. Because of this, there is a need to determine the assessment of safety measures from a tourist's perspective. To add, studies on safety measures at local tourist destinations in the Philippines remains limited. 	                           
+Tourism is considered as one of the driving force of national economy. However, the industry is dependent on a tourist's decision for selecting a travel destination. One of the factors that influence this decision is the tourist perception on the implementation of safety measures in the tourist spot. Because of this, there is a need to determine the assessment of safety measures from a tourist's perspective. To add, studies on safety measures at local tourist destinations in the Philippines remains limited.                             
 
 The objective of this study is to fill this gap by determining tourist perceptions of safety measures at Hinulugang Taktak focusing on three key themes: emergency/incident preparedness, natural disaster readiness, infrastructure facility and safety. The study also aims to determine the problems encountered by tourists on the overall general safety measures of the place. By evaluating these areas, the study seeks to provide insights that can guide improvements in local safety standards, and in turn, enhance the site's reputation to both domestic and international tourists.
 
-The study addresses the following research questions:
-	
-1. What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age, sex, and civil status?
-	
-2. How do tourists perceive the safety measures at Hinulugang Taktak regarding:
-		
-    2.1 Emergency and incident preparedness,
-		
-    2.2 Natural Disaster readiness,
-
-    2.3 Infrastructure and facility safety?
-
-3. What safety-related problems do tourists encounter during their visit to Hinulugang Taktak?
-
-Based on the findings, the study will propose guidelines to strengthen safety protocols at Hinulugang Taktak, benefiting both the site and contributing to broader knowledge on tourism safety in the Philippines.
+The study addresses the following research questions:  
+1.	What is the socio-demographic profile of tourists visiting Hinulugang Taktak in terms of age and sex?
+2.	What is the tourist perception on safety measures at Hinulugang Taktak regarding:
+    1. Emergency and incident preparedness,
+    2. Natural disaster readiness,
+    3. Infrastructure and facility safety?
+3.	What are the safety-measure problems do tourists encounter during their visit to Hinulugang Taktak?
+4.	Based on the findings of the study, what are the proposed safety measure guidelines to strengthen safety protocols at Hinulugang Taktak?
 ### Assumption
 Assumptions are conditions, or premises the researcher believes to be true without concrete proof for the study's purposes. These are facts or events a researcher assumes true without verification from a researcher. This study operates under the following assumptions:
 1. The study assumes that all participants will answer the survey questionnaire honestly and to the best of their knowledge. The accuracy of findings is dependent on the truthful response since the study relies on self-reported data.
