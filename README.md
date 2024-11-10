@@ -68,23 +68,17 @@ Assumptions are conditions, or premises the researcher believes to be true witho
 3. The study assumes that the tourists participating in this study have sufficient awareness and familiarity with the implemented safety measures at Hinulugang Taktak.
 4. The study assumes that external factors such as weather conditions, local events, or sudden changes will not alter the conditions of Hinulugang Taktak during the study period.
 ### Scope and Delimitation of the Study
-The scope of this study is limited to tourists visiting Hinulugang Taktak during the data collection period which spans from [start date] to [end date]. Only tourists who have visited the location for the past month will be included to ensure relevance and accuracy in reporting their current perceptions. The study will gather data using survey questionnaires distributed to tourists at the site focusing on their experiences on the safety measures of the place.
+The scope of this study is limited to tourists visiting Hinulugang Taktak during the data collection period. Only tourists who have visited the location for the past month will be included to ensure relevance and accuracy in reporting their current perceptions. The study will gather data using survey questionnaires distributed to tourists at the site focusing on their experiences on the safety measures of the place.
 
-The study is further confined to the following specific aspects:
+The study is further confined to the following specific aspects:  
+  1.	The study will only focus on safety measures related to emergency preparedness, natural disaster risks, and infrastructure, and will not explore other aspects of tourism management or the general tourism experience from Hinulugang Taktak.  
+  2.	The study will only collect data from tourists aging 15 and above and is visiting the site during the study period.  
+  3.	The study will only focus on Hinulugang Taktak in Antipolo City, excluding other nearby tourist spots or regions in the Philippines.
 
-  1. The study will only focus on safety measures related to emergency preparedness, natural disaster risks, and infrastructure, and will not explore other aspects of tourism management or the general tourism experience from Hinulugang Taktak.
-
-  2. The study will only collect data from tourists aging 15 and above and is visiting the site during the study period.
-
-  3. The study will only focus on Hinulugang Taktak in Antipolo City, excluding other nearby tourist spots or regions in the Philippines.
-
-The delimitations of the study are as follows:
-
-  1. The study does not include other tourist destinations within the nearby tourist spots, in the Philippines, or internationally as it only focuses on Hinulugang Taktak.
-
-  2. The data collection method of this study is limited only to self-reported responses through surveys, whose report may be influenced by the respondent's biases or subjective interpretations.
-
-  3. The sample size will be limited to a manageable number of respondents from the site due to resource constraints, which may not fully represent the broader population of tourists who visit Hinulugang Taktak.
+The delimitations of the study are as follows:  
+  1.	The study does not include other tourist destinations within the nearby tourist spots, in the Philippines, or internationally as it only focuses on Hinulugang Taktak.  
+  2.	The data collection method of this study is limited only to self-reported responses through surveys, whose report may be influenced by the respondent's biases or subjective interpretations.  
+  3.	The sample size will be limited to a manageable number of respondents from the site due to resource constraints, which may not fully represent the broader population of tourists who visit Hinulugang Taktak.  
 
 These delimitations is to maintain the feasibility of the study within the constraints of time and resources and its findings will be most applicable only to Hinulugang Taktak and may not be fully generalizable to other tourist destinations.
 ### Significance of the Study
