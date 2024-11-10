@@ -1,4 +1,12 @@
 # Tourist Perception on the Implementation of Safety Measures in Hinulugang Taktak, Antipolo City: A Proposed Guidelines
+## Researchers
+Alapad, Erica A.  
+Cal, John Alen C.  
+Codal, Nikka L.  
+Mora, Siena Mae Joy R.  
+Silva, John Bernard S. 
+ 
+*(December 2024)*
 ## Abstract
 ## Chapter 1: Introduction
 ### Background of the Study
