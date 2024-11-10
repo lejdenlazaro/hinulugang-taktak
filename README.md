@@ -42,7 +42,7 @@ The Process comprises the creation, validation, distribution, and retrieval of s
 
 The Output contains the tourist’s perception and problems encountered on the safety measure in Hinulugang Taktak.
 
-The Feedback serves as a feedback loop from the Output to the Input. It includes tourist comments, suggestions and recommendations on the safety measures in Hinulugang Taktak.
+The Feedback serves as a feedback loop from the Output to the In  put. It includes tourist comments, suggestions and recommendations on the safety measures in Hinulugang Taktak.
 
 **Figure 2**  
 *Input-Process-Output (IPO) Model for Tourist Perception on Safety Measures in Hinulugang Taktak*  
