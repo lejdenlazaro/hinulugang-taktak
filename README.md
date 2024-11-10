@@ -33,10 +33,20 @@ This study uses the Theory of Planned Behavior (TPB) to determine tourist percep
 *Theory of Planned Behavior*  
 ![Theory of Planned Behavior](./tables-and-figures/theory-of-planned-behavior.svg)
 ### Conceptual Framework
-* IPO model
-  * Input: Security measures at Hinulugang Taktak, tourist demographics, and current site conditions
-  * Observing tourist interactions, conducting surveys, analyzing feedback on safety perceptions
-  * Perception of security, suggestions for enhancing security measures
+The study used the Input-Process-Output (IPO) model to outline key variables of the study. The IPO model comprises of three main phases: Input, Process, and Output as shown in Figure 2.
+
+The Input consists of the demographic profile of the tourists visiting in Hinulugang Taktak in terms of age, sex, and civil status, and the safety measures in in terms of emergency and incident preparedness, natural disaster readiness, and infrastructure and facility safety.
+
+The Process comprises the creation, validation, distribution, and retrieval of survey questionnaires. Statistical analysis of the gathered data is also included in the Process. 
+
+The Output contains the tourist’s perception and problems encountered on the safety measure in Hinulugang Taktak.
+
+The Feedback serves as a feedback loop from the Output to the Input. It includes tourist comments, suggestions and recommendations on the safety measures in Hinulugang Taktak.
+
+**Figure 2**  
+*Input-Process-Output (IPO) Model for Tourist Perception on Safety Measures in Hinulugang Taktak*  
+![Input-Process-Output (IPO) Model image](./tables-and-figures/ipo.svg)
+
 ### Statement of the Problem
 Tourism is considered as one of the driving force of national economy. However, the industry is dependent on a tourist's decision for selecting a travel destination. One of the factors that influence this decision is the tourist perception on the implementation of safety measures in the tourist spot. Because of this, there is a need to determine the assessment of safety measures from a tourist's perspective. To add, studies on safety measures at local tourist destinations in the Philippines remains limited. 	                           
 
