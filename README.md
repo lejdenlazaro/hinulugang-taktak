@@ -146,9 +146,10 @@ This document certifies that the purpose of this study is to determine the touri
 The researchers used the following formula to interpret the tables containing the data from the information gathered through the survey questionnaire:
 1. Frequency and Percentage Distribution  
   This was used of connecting a portion of the entire overall responses. This study uses numbers, particularly to analyze frequency distribution. This to address the Statement of the Problem No. 1.  
-    $$
-    P = \frac{f}{N} \times 100
-    $$
+    
+    ![Frequency and Percentage Distribution](https://latex.codecogs.com/svg.image?\inline&space;\large&space;P=\frac{f}{N}\times&space;100
+    )
+        
     Where:  
         $P$ = percentage  
         $f$ = frequency  
@@ -156,9 +157,9 @@ The researchers used the following formula to interpret the tables containing th
 
 2. Weighted Arithmetic Mean  
   To measure the responses on the range. The respondents evaluated each indicator by looking at the 1-4 rating scale. As a result, the scale was employed to determine the responses' weight [(Clark-Carter, 2010)](https://www.sciencedirect.com/topics/mathematics/weighted-mean). This was applied to solve the Statement of the Problem No. 2.
-    $$
-    \bar{X} = \frac{\sum_{i=1}^n w_i x_i}{\sum_{i=1}^n w_i}
-    $$
+
+    ![Weighted Arithmetic Mean](https://latex.codecogs.com/svg.image?\bar{X}=\frac{\sum_{i=1}^n&space;w_i&space;x_i}{\sum_{i=1}^n&space;w_i})
+
     Where:  
       $\bar{X}$ = weighted mean  
       $w_i$ = weight of each item  
