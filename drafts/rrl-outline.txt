@@ -319,16 +319,48 @@ Template
 		Recommendations
 		Unique Insights or Novel Contributions
 4. General Risks and Safety Problems
-	Foreign RRL
+	Foreign RRL (Nagaj & a Žuromskaite, 2020) https://www.mdpi.com/1911-8074/13/5/99
 		Purpose and Objectives
+			to assess whether the level of competitiveness of accommodation facilities results from the level of safety and security provided to consumers of these services, measured by the number of security measures applied in them
+			to assess whether the level of competitiveness in the tourism sector, more specifically of accommodation facilities, resulted from the level of security provided to consumers of these services, measured by the number of security measures applied in them
 		Context and Background
+			tourism is the fastest growing economic sectors in the world
+			every issue of security that has a direct impact on tourists has a negative impact on income and tourist attendance of particular tourist destinations
+			to ensure that tourism continues to develop and generate income for tourist regions participants of this sector should focus on safety and security of their customers because people are risk-averse
+			tourists want to feel relatively safe in tourist destinations and accommodation facilities
+			*list of all security measures from Ghazi (2015)
 		Theoretical Framework
+			None
 		Methodology
+			location of the study is from two counties, Poland and Lithuania due to low security risks
+			85 accommodation services for Swinoujscie and 56 for Klaipeda
+			Herfindahl–Hirscham Index (HHI) used to find the concentration and find the level of security measures of accommodation facilities
 		Key Findings
+			security measures implemented in Swinoujscie
+				fire extinguishers
+				CCTV outside property
+				guest elevators
+				private parking
+			Klaipeda
+				transfer to/from the airport
+				private parking
+				24-h front desk
+				smoke detectors
+			Both
+				car parking facility
+			there is a positive correlation between star ratings and the level of security measures installed in the facility
+			the accommodation facilities rarely applied all 13 security measures analyzed
+			the more stars the facility had, the more security measures were installed 
 		Conclusions and Implications
+			the owners of such facilities not to treat the level of security offered as a pricing factor, but rather as an element of service quality that could be used in advertising their business
+			should also help the owners of accommodation facilities to improve the quality of their services
 		Limitations
+			None
 		Recommendations
+			They are informed about how many safety measures and which of them they should install in their accommodation facilities if they want to remain competitive in the market or what they should do to improve their services to obtain more “stars”
+			some security measures are seen by tourists as a security requirement in accommodation facilities
 		Unique Insights or Novel Contributions
+			None
 	Foreign RRS
 		Purpose and Objectives
 		Context and Background
