@@ -27,8 +27,7 @@ This study aims to assess tourist perceptions of safety measures at Hinulugang T
 * 5 rrl
 * 5 rrs
 ### Theoretical Framework
-* Maslow's Hierarchy of Needs -  frame tourists' needs for safety and security in destination choices
-* Environmental Psychology Theory - examines how physical spaces and environmental factors influence people's behaviors and perceptions
+This study uses the Theory of Planned Behavior (TPB) to determine tourist perceptions on safety measures at Hinulugang Taktak and explain how these perceptions influence their intention to visit. It is developed by Ajzen (1991) and is a widely recognized framework on psychology for understanding the relationship between individual’s perception, attitude, and behavior. It has three primary constructs namely: attitude, subjective norms, and perceived behavioral control that shapes an individual’s behavioral intentions and behavior as shown in Figure 1.
 ### Conceptual Framework
 * IPO model
   * Input: Security measures at Hinulugang Taktak, tourist demographics, and current site conditions
