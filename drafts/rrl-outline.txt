@@ -10,7 +10,7 @@ Template
 	Recommendations  
 	Unique Insights or Novel Contributions  
 1. Workplace Safety/Incident Indicators  
-	Foreign RRL: https://scholarworks.waldenu.edu/dissertations/8342/  
+	Foreign RRL: (Vaiagae, 2020) https://scholarworks.waldenu.edu/dissertations/8342/  
 		Purpose and Objectives  
 			to explore strategies some organizational managers use to reduce workplace accidents  
 		Context and Background  
@@ -74,7 +74,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL: https://research.lpubatangas.edu.ph/wp-content/uploads/2022/02/09-APJMSD-2021-31-1.pdf
+	Local RRL: (Torralba & Ylagan, 2021) https://research.lpubatangas.edu.ph/wp-content/uploads/2022/02/09-APJMSD-2021-31-1.pdf
 		Purpose and Objectives
 			investigated the safety and security measures of resorts in batangas
 			to determine the level of safety and security in terms of public hazard, life and property, environmental security, public health, and accessibility
@@ -159,7 +159,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL: https://techniumscience.com/index.php/business/article/view/8562
+	Local RRL: (Sangat & Estores, 2023) https://techniumscience.com/index.php/business/article/view/8562
 		Purpose and Objectives
 			aimed to assess the extent of disaster risk management preparedness of a local beach and dive resort in Southern Negros Occidental
 		Context and Background
@@ -192,7 +192,7 @@ Template
 		Unique Insights or Novel Contributions
 		Synthesis Themes
 			General
-	Local RRS: https://research.lpubatangas.edu.ph/wp-content/uploads/2021/10/m7732_ijrsm_final.pdf
+	Local RRS: (Mercado & Apritado, 2021) https://research.lpubatangas.edu.ph/wp-content/uploads/2021/10/m7732_ijrsm_final.pdf
 		Purpose and Objectives
 			investigating the acceptability and tourism risk impact on the destination image of the Province of Batangas
 			determine the tourist risk impact on the destination image in terms of: manmade, natural disasters, tourist benefit, feeling experience and destination image;
