@@ -149,7 +149,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Foreign RRS
+	Foreign RRS (Dube & Nhamo, 2020) https://apcz.umk.pl/BGSS/article/view/19152
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -298,7 +298,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL
+	Local RRL (Galleto & De Leon, 2022) https://www.researchgate.net/profile/Fredelino-Galleto/publication/369453806_Social_Media_Technologies_and_Its_Role_in_Sustainable_Tourism_Development_of_Asik-Asik_Falls/links/641ce0a4315dfb4ccea375a5/Social-Media-Technologies-and-Its-Role-in-Sustainable-Tourism-Development-of-Asik-Asik-Falls.pdf
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -308,7 +308,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRS
+	Local RRS 
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -361,7 +361,7 @@ Template
 			some security measures are seen by tourists as a security requirement in accommodation facilities
 		Unique Insights or Novel Contributions
 			None
-	Foreign RRS
+	Foreign RRS (Imbeah et al., 2020) https://gtg.webhost.uoradea.ro/PDF/GTG-1-2020/gtg.28117-464.pdf
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -371,7 +371,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Foreign RRS
+	Foreign RRS (Mouneke, 2024) https://ojs.amhinternational.com/index.php/imbr/article/view/4014
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -381,7 +381,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRL
+	Local RRL (Marasigan & Borbon, 2021) https://research.lpubatangas.edu.ph/wp-content/uploads/2020/12/Destination-competitiveness-in-the-view-of-resort-managers.pdf
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -391,9 +391,9 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Local RRS
+	Local RRS (Samson et al., 2022) https://www.researchgate.net/profile/Belinda-Abdon-Liwanag/publication/371043558_SDCA_Student_Research_Journal_Volume_11_Issue_1_2022/links/64704e8aa25e543829ccb6ac/SDCA-Student-Research-Journal-Volume-11-Issue-1-2022.pdf#page=7
 		Purpose and Objectives
-		Context and Background
+		Context and Background	
 		Theoretical Framework
 		Methodology
 		Key Findings
