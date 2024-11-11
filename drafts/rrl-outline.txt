@@ -278,7 +278,7 @@ Template
 			None
 		Unique Insights or Novel Contributions
 			None
-	Foreign RRS (Hamzah, 2024) https://ijmra.in/v7i2/28.php
+	Foreign RRS (Hamzah et al., 2024) https://ijmra.in/v7i2/28.php
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
@@ -288,7 +288,7 @@ Template
 		Limitations
 		Recommendations
 		Unique Insights or Novel Contributions
-	Foreign RRS (Guijin & Jinfeng) https://www.e3s-conferences.org/articles/e3sconf/abs/2021/27/e3sconf_ictees2021_03010/e3sconf_ictees2021_03010.html
+	Foreign RRS (Guijin & Jinfeng, 2021) https://www.e3s-conferences.org/articles/e3sconf/abs/2021/27/e3sconf_ictees2021_03010/e3sconf_ictees2021_03010.html
 		Purpose and Objectives
 		Context and Background
 		Theoretical Framework
